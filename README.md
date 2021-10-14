@@ -11,7 +11,7 @@
 4. Start commit -> commit change
 5. Visit https://dashboard.ngrok.com to get authtoken
 6. Click your authtoken
-7. Copy authtoken (authtoken only can be used once, one action, one workflow, one run job)
+7. Copy authtoken
 8. Click Setting -> secret -> new repository secret
 9. Input Name: NGROK_AUTH_TOKEN
 10. Input value with authtoken you have copied from ngrok account -> Add
