@@ -21,3 +21,4 @@
 14. Don't use Action too often in short time.
 ```
 Don't use Action too often in short time.
+.
