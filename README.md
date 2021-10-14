@@ -18,13 +18,11 @@
 11. Action -> Workflow -> Windows -> run workflow -> reload -> appear Windows, click it -> build
 12. Wait process -> click connect to your RDP -> Copy IP, username, and password.
 13. Run only 1 action between 2019 or 2022, don't use / run together at same time.
-14. Don't use Action too often in short time and obey GitHub rules
+14. Don't use Action too often in short time and too soon, obey GitHub rules
 ```
 
 Run only 1 action between 2019 or 2022, don't use / run together at same time.
 
-Don't use Action too often in short time.
-
-Change the username and repository name. Read the steps above.
+Change the username and repository name. Read the steps above (1-14).
 
 .
