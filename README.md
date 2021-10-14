@@ -23,7 +23,9 @@
 ```
 
 Choose 1 between 2019 or 2022, don't use together.
+
 Don't use Action too often in short time.
+
 Change the username and repository name. Read the steps above.
 
 .
