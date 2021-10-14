@@ -11,7 +11,7 @@ jobs:
     steps:
     - name: Download Ngrok.
       run: |
-        Invoke-WebRequest https://github.com/airym1/ngrok/raw/main/Files/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+        Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
     - name: If error, read the steps at README.md before run this action. Kalau error Baca dulu langkahnya di README.md.
       run: |
         Invoke-WebRequest https://raw.githubusercontent.com/rossum01/rdpw2/main/File/start.bat -OutFile start.bat
