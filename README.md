@@ -22,7 +22,7 @@
 15. Don't use Action too often in short time.
 ```
 
-Choose 1 between 2019 or 2022, don't use together.
+Run only 1 action between 2019 or 2022, don't use / run together at same time.
 
 Don't use Action too often in short time.
 
