@@ -1,5 +1,5 @@
 # Windows RDP 6 Hours
-# Use wisely, obey GitHub rules
+# Use wisely
 # For Education purpose only
 # Don't use for mining, torrent, cracking, or illegal activities!
 # Must Read carefully and Follow steps below, otherwise it will error
@@ -17,9 +17,8 @@
 10. Input value with authtoken you have copied from ngrok account -> Add
 11. Action -> Workflow -> Windows -> run workflow -> reload -> appear Windows, click it -> build
 12. Wait process -> click connect to your RDP -> Copy IP, username, and password.
-13. Choose 1 between 2019 or 2022, don't use together.
-14. Pay attention with GitHub rules.
-15. Don't use Action too often in short time.
+13. Run only 1 action between 2019 or 2022, don't use / run together at same time.
+14. Don't use Action too often in short time and obey GitHub rules
 ```
 
 Run only 1 action between 2019 or 2022, don't use / run together at same time.
