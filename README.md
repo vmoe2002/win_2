@@ -7,7 +7,7 @@
 ```
 1. In this repository, click fork
 2. Click .github/workflow -> main.yml (also main2.yml)
-3. Edit -> change only rossum01/rdp2 with your username and repository name (yourusername/yourrepositoryname)
+3. Edit -> change only rossum01/rdpw2 with your username and repository name (yourusername/yourrepositoryname)
 4. Start commit -> commit change
 5. Visit https://dashboard.ngrok.com to get authtoken
 6. Click your authtoken
