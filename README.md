@@ -17,7 +17,7 @@
 10. Input value with authtoken you have copied from ngrok account -> Add
 11. Action -> Workflow -> Windows -> run workflow -> reload -> appear Windows, click it -> build
 12. Wait process -> click connect to your RDP -> Copy IP, username, and password.
-13. Pay attention with Action limit on your account and GitHub rules.
+13. Pay attention with GitHub rules.
 14. Don't use Action too often in short time.
 ```
 Don't use Action too often in short time.
