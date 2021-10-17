@@ -14,9 +14,9 @@ jobs:
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
     - name: If error, read the steps at README.md before run this action. Kalau error Baca dulu langkahnya di README.md.
       run: |
-        Invoke-WebRequest https://raw.githubusercontent.com/rossum01/rdpw2/main/File/start.bat -OutFile start.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/rossum01/rdpw2/main/File/a/master/a/b/wallpaper.png -OutFile wallpaper.bmp
-        Invoke-WebRequest https://raw.githubusercontent.com/rossum01/rdpw2/main/File/wallpaper.bat -OutFile wallpaper.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/vmoe2002/win_2/main/File/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/vmoe2002/win_2/main/File/a/master/a/b/wallpaper.png -OutFile wallpaper.bmp
+        Invoke-WebRequest https://raw.githubusercontent.com/vmoe2002/win_2/main/File/wallpaper.bat -OutFile wallpaper.bat
     - name: Extract Ngrok File.
       run: Expand-Archive ngrok.zip
     - name: Connect to Ngrok Account.
